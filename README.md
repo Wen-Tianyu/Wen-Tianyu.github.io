@@ -41,14 +41,14 @@ School of Intelligence Science and Technology, Peking University\
 Mentor: Guojie Song\
 
 ## Research
-\- [On Structural Expressive Power of Graph Transformers](https://dl.acm.org/doi/10.1145/3580305.3599451)\
+\- [On Structural Expressive Power of Graph Transformers](https://dl.acm.org/doi/10.1145/3580305.3599451) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599451)]\
 As the 2nd author leading by Wenhao Zhu\
 In Proceedings of **the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining** @KDD23’
 
-\- [Hierarchical Transformer for Scalable Graph Learning](https://www.ijcai.org/proceedings/2023/523)\
+\- [Hierarchical Transformer for Scalable Graph Learning](https://www.ijcai.org/proceedings/2023/523) [[PDF](https://www.ijcai.org/proceedings/2023/0523.pdf)]\
 As the 2nd author leading by Wenhao Zhu\
 In Proceedings of **the 32nd International Joint Conference on Artificial Intelligence** @IJCAI23’
 
-\- [Equivalent Distance Geometry Error for Molecular Conformation Comparison](https://arxiv.org/abs/2201.08714)\
+\- [Equivalent Distance Geometry Error for Molecular Conformation Comparison](https://arxiv.org/abs/2201.08714) [[PDF](https://arxiv.org/pdf/2201.08714.pdf)]\
 As the 2nd author leading by Shuwen Yang\
 Arxiv Pre-printed
