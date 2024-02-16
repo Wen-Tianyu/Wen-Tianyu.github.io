@@ -1,8 +1,8 @@
 # Tianyu Wen
 
-### Always towards rainbow 🏳️‍🌈 and red pandas <img src="./redpanda.png" alt="drawing" width=20/>.
+### Always towards rainbow 🏳️‍🌈 and red pandas <img src="img/redpanda.png" alt="drawing" width=20/>.
 
-<img src="./IMG_2272.jpeg" alt="drawing" width=60%/>
+<img src="img/IMG_2272.jpeg" alt="drawing" width=60%/>
 
 ## Education
 \- Sep. 2016 - Jul. 2019\
