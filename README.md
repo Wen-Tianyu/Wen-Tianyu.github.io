@@ -1,6 +1,8 @@
 # Tianyu Wen
 
-Always towards the rainbow and red pandas.
+### Always towards rainbow 🏳️‍🌈 and red pandas <img src="./redpanda.png" alt="drawing" width=20/>.
+
+<img src="./IMG_2272.jpeg" alt="drawing" width=60%/>
 
 ## Education
 \- Sep. 2016 - Jul. 2019\
@@ -38,7 +40,7 @@ Algorithm Engineer Intern
 Beijing, China\
 **Machine Intelligence and Perception Laboratory** @PKU\
 School of Intelligence Science and Technology, Peking University\
-Mentor: Guojie Song\
+Mentor: Guojie Song
 
 ## Research
 \- [On Structural Expressive Power of Graph Transformers](https://dl.acm.org/doi/10.1145/3580305.3599451) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599451)]\
