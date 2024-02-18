@@ -20,7 +20,7 @@ Also, I am a forever badminton rookie and a broken writer.
 ## Education
 \- Sep. 2016 - Jul. 2019\
 Xinxiang, Henan, China\
-Afiliated Middle School of Henan Normal University
+Affiliated Middle School of Henan Normal University
 
 \- Sep. 2019 - Jul. 2023\
 Beijing, China\
