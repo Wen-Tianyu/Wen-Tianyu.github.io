@@ -53,6 +53,7 @@ Algorithm Engineer Intern
 Beijing, China\
 **Machine Intelligence and Perception Laboratory** <span style="color:#a60f0f">@PKU</span>\
 School of Intelligence Science and Technology, Peking University\
+Undergraduate Research Assistant\
 Mentor: [Guojie Song](https://scholar.google.com.hk/citations?user=a832IIMAAAAJ&hl=en)
 
 ## Research
