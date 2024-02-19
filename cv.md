@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[Tianyu Wen] Last Updated: Feb. 18 2024
+*Last Updated: Feb. 18 2024*
 
 ## Education
 \- Sep. 2016 - Jul. 2019\
@@ -55,4 +55,4 @@ As the 2nd author led by [Shuwen Yang](https://scholar.google.com/citations?hl=e
 Arxiv Pre-printed
 
 
-### [🏠 Home](../README.md)
+### [🏠 Home](./README.md)

@@ -2,7 +2,7 @@
 
 ### Always towards 🏳️‍🌈<span style="color:red">r</span><span style="color:orange">a</span><span style="color:#edde09">i</span><span style="color:green">n</span><span style="color:#04d9b9">b</span><span style="color:blue">o</span><span style="color:purple">w</span> and <img src="img/redpanda.png" width=20/><span style="color:#e68702">red pandas</span>.
 
-<img src="img/IMG_2272.jpeg" width=400/>
+<img src="img/self.jpeg" width=400/>
 
 ## 🎨 Interest
 
@@ -16,6 +16,8 @@ I am a former Graph Learning researcher from DS[<span style="color:#a60f0f">@PKU
 
 I am expert in Python and C++ programming with machine learning technics including PyTorch and PyG. I also enjoys learning mathematics behind AI algorithms and intends to expand my horizens towards different application fields including Computer Vision and Data Mining.
 
-## [💼 CV](./blog/cv.md)
+## [💼 CV](./cv.md)
 
 ## [📋 Blog](./blog/blogs.md)
+
+## [🚢 Travel](./blog/blogs.md)
