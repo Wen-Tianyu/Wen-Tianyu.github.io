@@ -115,11 +115,16 @@
 <video width="400" controls>
   <source src="./img/Atlanta/redpanda_v.mov" type="video/mov">
 </video>
-↗️ Angel is having his dinner
+↗️ The Angel is having dinner
 
 ### New York [NY]
 
 #### New York City
+
+<img src="./img/NYC/timesquare.jpeg" width=400/>\
+↗️ Time Square is always crowded, even at midnight
+
+
 
 ## 🇨🇦 Canada
 
