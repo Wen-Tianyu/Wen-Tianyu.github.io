@@ -113,7 +113,7 @@
 ↗️ My life will be never complete without red pandas
 
 <video width="400" controls>
-  <source src="./img/Atlanta/redpanda_v.mov" type="video/mov">
+  <source src="./img/Atlanta/redpanda_v.mp4" type="video/mp4">
 </video>
 ↗️ The Angel is having dinner
 
