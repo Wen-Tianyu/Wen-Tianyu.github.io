@@ -1,5 +1,9 @@
 # Chicago
 
+🩵 *Special thanks to Dongqi Guo and Yixuan Wang for once sharing rooms during my visit and they are both great alumni of Peking University. Also delighted to meet Changyu Yao, another PKUer from St. Louis!*
+
+## Shots
+
 <img src="../img/Chicago/downtown.jpeg" width=400/>\
 ↗️ Chicago downtown seen from Navy Pier
 

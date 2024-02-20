@@ -1,5 +1,9 @@
 # Atlanta
 
+🩵 *Special thanks to Yan Sun, studying at GaTech, for sharing his room during my visit and giving me a special experience there.*
+
+## Shots
+
 <img src="../img/Atlanta/cococola.jpeg" width=400/>\
 ↗️ Meet the history at the World of Coca-Cola in Atlanta
 
