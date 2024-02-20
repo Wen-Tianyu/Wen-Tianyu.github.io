@@ -98,6 +98,8 @@
 
 ### Georgia [GA]
 
+#### Atlanta
+
 <img src="./img/Atlanta/cococola.jpeg" width=400/>\
 ↗️ Meet the history at the World of Coca-Cola in Atlanta
 
@@ -110,12 +112,10 @@
 <img src="./img/Atlanta/redpanda.jpeg" width=400/>\
 ↗️ My life will be never complete without red pandas
 
-<video src="./img/Atlanta/redpanda_v.mov" width=400/>\
-↗️ Looking down at the campus of Georgia Institute of Technology
-
-
-
-#### Atlanta
+<video width="400" controls>
+  <source src="./img/Atlanta/redpanda_v.mov" type="video/mov">
+</video>
+↗️ Angel is having his dinner
 
 ### New York [NY]
 
