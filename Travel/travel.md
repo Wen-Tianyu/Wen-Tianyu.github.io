@@ -21,13 +21,13 @@
 
 ### Municipality 直辖市
 
-Beijing 北京\
+[Beijing 北京](./Beijing.md)\
 Tianjin 天津\
 Chongqing 重庆\
 Shanghai 上海
 
 ### Henan 河南
-Xinxiang 新乡\
+[Xinxiang 新乡](./Xinxiang.md)\
 Zhengzhou 郑州\
 Kaifeng 开封
 
@@ -46,7 +46,7 @@ Shaoxing 绍兴
 Dalian 大连
 
 ### Hebei 河北
-Qinhuangdao 秦皇岛
+[Qinhuangdao 秦皇岛](./Qinhuangdao.md)
 
 ### 🇭🇰 Hong Kong 香港
 
