@@ -22,4 +22,9 @@
 <img src="../img/Urbana/dusk.jpeg" width=400/>\
 ↗️ Do not miss the sky at dusk
 
+## Reminder
+📍 [**Black Dog Smoke & Ale House**] 320 N Chestnut St, Champaign, IL 61820\
+The beef brisket and burnt ends here is amazing and I need to visit here every few weeks to satisfy my stomach. Mac and cheese and fries here are also appetizing! 
+
+
 ### [🚢 Travel](./travel.md)
