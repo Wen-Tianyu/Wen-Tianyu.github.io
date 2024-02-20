@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# 💼 Curriculum Vitae
 
 *Last Updated: Feb. 18 2024*
 

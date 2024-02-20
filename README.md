@@ -20,4 +20,4 @@ I am expert in Python and C++ programming with machine learning technics includi
 
 ## [📋 Blog](./blog/blogs.md)
 
-## [🚢 Travel](./blog/blogs.md)
+## [🚢 Travel](./travel.md)
