@@ -22,14 +22,17 @@
 ### Municipality 直辖市
 
 [Beijing 北京](./Beijing.md)\
-Tianjin 天津\
+[Tianjin 天津](./Tianjin.md)\
 Chongqing 重庆\
 Shanghai 上海
 
 ### Henan 河南
 [Xinxiang 新乡](./Xinxiang.md)\
 Zhengzhou 郑州\
-Kaifeng 开封
+[Kaifeng 开封](./Kaifeng.md)
+
+### Hebei 河北
+[Qinhuangdao 秦皇岛](./Qinhuangdao.md)
 
 ### Sichuan 四川
 Chengdu 成都\
@@ -45,9 +48,10 @@ Shaoxing 绍兴
 ### Liaoning 辽宁
 Dalian 大连
 
-### Hebei 河北
-[Qinhuangdao 秦皇岛](./Qinhuangdao.md)
+### Inner Mongolia 内蒙古
+Ulanqab 乌兰察布 
 
-### 🇭🇰 Hong Kong 香港
+### SAR 特别行政区
 
-### 🇲🇴 Macau 澳门
+🇭🇰 Hong Kong 香港\
+🇲🇴 Macau 澳门
