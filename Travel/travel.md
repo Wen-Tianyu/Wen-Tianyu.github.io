@@ -29,14 +29,16 @@ Shanghai 上海
 ### Henan 河南
 [Xinxiang 新乡](./Xinxiang.md)\
 Zhengzhou 郑州\
-[Kaifeng 开封](./Kaifeng.md)
+[Kaifeng 开封](./Kaifeng.md)\
+Luoyang 洛阳
 
 ### Hebei 河北
 [Qinhuangdao 秦皇岛](./Qinhuangdao.md)
 
 ### Sichuan 四川
 Chengdu 成都\
-Ya'an 雅安
+Ya'an 雅安\
+Aba 阿坝藏族羌族自治州
 
 ### Jiangsu 江苏
 Nanjing 南京
@@ -47,6 +49,12 @@ Shaoxing 绍兴
 
 ### Liaoning 辽宁
 Dalian 大连
+
+### Shanxi 山西
+Jincheng 晋城
+
+### Shandong 山东
+Qingdao 青岛
 
 ### Inner Mongolia 内蒙古
 Ulanqab 乌兰察布 
