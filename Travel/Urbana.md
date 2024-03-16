@@ -24,7 +24,7 @@
 
 ## Reminder
 📍 [**Black Dog Smoke & Ale House**] 320 N Chestnut St, Champaign, IL 61820\
-The beef brisket and burnt ends here is amazing and I need to visit here every few weeks to satisfy my stomach. Mac and cheese and fries here are also appetizing! 
+The beef brisket and burnt ends here is amazing and I need to visit here every few weeks to satisfy my stomach. Mac and cheese and fries are also appetizing! 
 
 📍 [**Sakanaya**] 403 E Green St, Champaign, IL 61820\
 An amazing Japanese restaurant and the sashimi there has great quality with favorable price. The donkatsu and sushi are also tasty, and this is where I fell in love with Japanese cuisine again.
