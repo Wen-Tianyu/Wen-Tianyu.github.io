@@ -17,7 +17,7 @@
 ↗️ The Brooklyn Bridge at night in NYC
 
 ## Reminder
-📍 [**Cho Dang Gol**] 55 W 35th St. New York, NY 10001\
+📍 [**Cho Dang Gol**] 55 W 35th St., New York, NY 10001\
 Here serving wonderful Korean cuisines including homemade makgeolli with refreshing pears as my top recommendation. 
 
 

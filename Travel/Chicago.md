@@ -28,4 +28,8 @@
 <img src="../img/Chicago/chinatown.jpeg" width=400/>\
 ↗️ Gateway through Chicago Chinatown
 
+## Reminder
+📍 [**MingHin Cuisine (名轩)**] 2168 S Archer Ave, Chicago, IL 60616\
+placeholder
+
 ### [🚢 Travel](./travel.md)

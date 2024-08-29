@@ -3,8 +3,8 @@
 ## 🇺🇸 United States
 
 ### California [CA]
-San Jose\
-San Francisco\
+[San Jose](./Sanjose.md)\
+[San Francisco](./Sanfrancisco.md)\
 Santa Cruz\
 Los Angeles\
 Monterey

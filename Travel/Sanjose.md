@@ -4,13 +4,22 @@
 
 ## Shots
 
-<img src="../img/NYC/timesquare.jpeg" width=400/>\
-↗️ Time Square is always crowded, even at midnight
-
 
 ## Reminder
-📍 [**Cho Dang Gol**] 55 W 35th St. New York, NY 10001\
-Here serving wonderful Korean cuisines including homemade makgeolli with refreshing pears as my top recommendation. 
+📍 [**Shang Cafe San Jose (香小馆)**] 6154 Bollinger Rd, San Jose, CA 95129\
+placeholder
+
+📍 [**Ping's Bistro Cupertino(留湘小聚)**] 10700 S De Anza Blvd, Cupertino, CA 95014\
+placeholder
+
+📍 [**Lei Garden (利苑)**] 10125 Bandley Dr, Cupertino, CA 95014\
+placeholder
+
+📍 [**3Catea (三喵制茶)**] 1777 N Milpitas Blvd Milpitas, CA 95035\
+placeholder
+
+📍 [**Chicha San Chen (吃茶三千)**] 20688 Stevens Creek Blvd, Cupertino, CA 95014\
+placeholder
 
 
 ### [🚢 Travel](./travel.md)
