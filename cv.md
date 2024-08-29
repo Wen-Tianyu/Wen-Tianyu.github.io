@@ -1,6 +1,6 @@
 # 💼 Curriculum Vitae
 
-*Last Updated: Feb. 18 2024*
+*Last Updated: Aug. 28 2024*
 
 ## Education
 \- Sep. 2016 - Jul. 2019\
@@ -22,10 +22,10 @@ Master of Engineering in Electrical and Computer Engineering
 
 
 ## Work Experience
-\- [!*Upcoming*] May. 2023 - Aug. 2023\
+\- May. 2023 - Aug. 2023\
 San Jose, California, United States\
 **WeRide Corp** [<span style="color:#31bceb">@WeRide.ai</span>](https://www.weride.ai/)\
-Perception Team\
+Perception Team (Camera/OD)\
 Software Engineer Intern
 
 \- Jun. 2022 - Feb. 2023\
