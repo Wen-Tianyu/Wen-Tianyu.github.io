@@ -5,9 +5,9 @@
 ### California [CA]
 [San Jose](./Sanjose.md)\
 [San Francisco](./Sanfrancisco.md)\
-Santa Cruz\
-Los Angeles\
-Monterey
+[Santa Cruz](./Santacruz.md)\
+[Los Angeles](./Losangeles.md)\
+[Monterey](./Monterey.md)
 
 ### Illinois [IL]
 [Chicago](./Chicago.md)\
