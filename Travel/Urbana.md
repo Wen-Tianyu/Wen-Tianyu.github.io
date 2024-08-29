@@ -1,6 +1,6 @@
 # Urbana-Champaign
 
-🩵 *Special thanks to all the PKUers, THUers, ZJUIers and UIUCers I met here for accompanying me in this wonderful journey of graduate study. Including but not limited to Yihong Jin, Yuhao Ge, Xiyan Xu, Xin Xu, Muyan Hu, Hao Guo, Shangzhen Zhu, Bing Wang, Yifei Song, Congshan Yu, Taoran Li, Haozhe Chen, Mark Bauer, etc.*
+🩵 *Special thanks to all the PKUers, THUers, ZJUIers and UIUCers I met here for accompanying me in this wonderful journey of graduate study. Including but not limited to Yihong Jin, Yuhao Ge, Xiyan Xu, Xin Xu, Jiangwei Yu, Muyan Hu, Hao Guo, Shangzhen Zhu, Bing Wang, Yifei Song, Congshan Yu, Taoran Li, Haozhe Chen, Mark Bauer, etc.*
 
 ## Shots
 

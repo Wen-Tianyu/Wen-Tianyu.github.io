@@ -2,6 +2,13 @@
 
 ## 🇺🇸 United States
 
+### California [CA]
+San Jose\
+San Francisco\
+Santa Cruz\
+Los Angeles\
+Monterey
+
 ### Illinois [IL]
 [Chicago](./Chicago.md)\
 [Urbana-Champaign](./Urbana.md)
