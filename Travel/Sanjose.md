@@ -30,7 +30,7 @@
 📍 [**Shang Cafe San Jose (香小馆)**] 6154 Bollinger Rd, San Jose, CA 95129\
 The best Chinese restaurant in San Jose area with authentic taste. If you like Szechuan cuisines, never miss this one!
 
-📍 [**Ping's Bistro Cupertino(留湘小聚)**] 10700 S De Anza Blvd, Cupertino, CA 95014\
+📍 [**Ping's Bistro Cupertino (留湘小聚)**] 10700 S De Anza Blvd, Cupertino, CA 95014\
 Also a wonderful Chinese restaurant with signatures of Yunnan cuisine. Before visiting there, I would never imagine how tasty mushrooms can be cooked.
 
 📍 [**Lei Garden (利苑)**] 10125 Bandley Dr, Cupertino, CA 95014\
