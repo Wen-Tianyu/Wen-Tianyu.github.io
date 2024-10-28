@@ -19,6 +19,9 @@
 ### New York [NY]
 [New York City](./NYC.md)
 
+### Pennsylvania [PA]
+[Pittsburgh](./Pittsburgh.md)
+
 ## 🇨🇦 Canada
 
 ### British Columbia [BC]
