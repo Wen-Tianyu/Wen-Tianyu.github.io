@@ -1,6 +1,6 @@
 # Urbana-Champaign
 
-🩵 *Special thanks to all the PKUers, THUers, ZJUIers and UIUCers I met here for accompanying me in this wonderful journey of graduate study. Including but not limited to Yihong Jin, Yuhao Ge, Xiyan Xu, Xin Xu, Jiangwei Yu, Muyan Hu, Hao Guo, Shangzhen Zhu, Bing Wang, Yifei Song, Congshan Yu, Taoran Li, Haozhe Chen, Mark Bauer, etc.*
+🩵 *Special thanks to all the PKUers, THUers, ZJUIers and UIUCers I met here for accompanying me in this wonderful journey of graduate study, including but not limited to Yihong Jin, Yuhao Ge, Xiyan Xu, Xin Xu, Jiangwei Yu, Muyan Hu, Hao Guo, Shangzhen Zhu, Bing Wang, Yifei Song, Congshan Yu, Taoran Li, Haozhe Chen, Zhiwen Yan, Zihao Li, Jipeng Lyu, Shuyi Guo, Ruochen Wu, Haina Lou, Fan Yang, Shengjie Ma, Mark Bauer, etc.*
 
 ## Shots
 
@@ -22,6 +22,9 @@
 <img src="../img/Urbana/dusk.jpeg" width=400/>\
 ↗️ Do not miss the sky at dusk
 
+<img src="../img/Urbana/lake.jpeg" width=400/>\
+↗️ An unforgettable barbeque day with friends at Homer Lake Forest Preserve
+
 ## Reminder
 📍 [**Black Dog Smoke & Ale House**] 320 N Chestnut St, Champaign, IL 61820\
 The beef brisket and burnt ends here is amazing and I need to visit here every few weeks to satisfy my stomach. Mac and cheese and fries are also appetizing! 
@@ -29,5 +32,7 @@ The beef brisket and burnt ends here is amazing and I need to visit here every f
 📍 [**Sakanaya**] 403 E Green St, Champaign, IL 61820\
 An amazing Japanese restaurant and the sashimi there has great quality with favorable price. The donkatsu and sushi are also tasty, and this is where I fell in love with Japanese cuisine again.
 
+📍 [**Northern Cuisine (北味轩)**] 404 E Green St, Champaign, IL 61820\
+The best Chinese restaurant at UIUC with really authentic cuisines from Northeast China.
 
 ### [🚢 Travel](./travel.md)
