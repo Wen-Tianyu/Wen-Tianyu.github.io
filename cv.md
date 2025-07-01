@@ -3,9 +3,12 @@
 *Last Updated: Aug. 28 2024*
 
 ## Education
-\- Sep. 2016 - Jul. 2019\
-Xinxiang, Henan, China\
-Affiliated Middle School of Henan Normal University
+\- Aug. 2023 - Dec. 2024\
+Urbana, Illinois, United States\
+**University of Illinois Urbana-Champaign** <span style="color:#ff6200">@UIUC</span>\
+Department of Electrical and Computer Engineering\
+Grainger College of Engineering\
+Master of Engineering in Electrical and Computer Engineering
 
 \- Sep. 2019 - Jul. 2023\
 Beijing, China\
@@ -13,16 +16,19 @@ Beijing, China\
 Yuanpei College\
 Bachelor of Science in Data Science
 
-\- Aug. 2023 - Dec. 2024 (Expected)\
-Urbana, Illinois, United States\
-**University of Illinois Urbana-Champaign** <span style="color:#ff6200">@UIUC</span>\
-Department of Electrical and Computer Engineering\
-Grainger College of Engineering\
-Master of Engineering in Electrical and Computer Engineering
+\- Sep. 2016 - Jul. 2019\
+Xinxiang, Henan, China\
+Affiliated Middle School of Henan Normal University
 
 
 ## Work Experience
-\- May. 2023 - Aug. 2023\
+\- Feb. 2025 - Now\
+San Jose, California, United States\
+**TikTok Inc.** [<span style="color:#ff5967">@</span>](https://www.tiktok.com/about?lang=en)[<span style="color:#29f4ff">Tik</span>](https://www.tiktok.com/about?lang=en)[<span style="color:#ff5967">Tok</span>](https://www.tiktok.com/about?lang=en)\
+Data E-commerce Recommendation\
+Machine Learning Engineer
+
+\- May. 2024 - Aug. 2024\
 San Jose, California, United States\
 **WeRide Corp** [<span style="color:#31bceb">@WeRide.ai</span>](https://www.weride.ai/)\
 Perception Team (Camera/OD)\
