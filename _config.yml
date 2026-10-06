@@ -225,7 +225,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   publications:
-    output: true
+    output: false   # papers link straight to the publisher; no separate detail pages
     permalink: /:collection/:path/
   travel:
     output: true

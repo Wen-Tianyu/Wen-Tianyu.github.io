@@ -3,7 +3,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    match: /publication/   # also highlight this tab on individual paper pages
 
   - title: "Blog"
     url: /year-archive/
