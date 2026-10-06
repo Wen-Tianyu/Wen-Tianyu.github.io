@@ -64,7 +64,7 @@ redirect_from:
     }).addTo(map);
     var bounds = [];
     places.forEach(function (p) {
-      // Shift Asia west by 360° so the map is centred on the Pacific (US + China side by side)
+      /* Shift Asia west by 360° so the map is centred on the Pacific (US + China side by side) */
       var lng = p.lng > 60 ? p.lng - 360 : p.lng;
       var m = L.circleMarker([p.lat, lng], {
         radius: p.url ? 8 : 5,
