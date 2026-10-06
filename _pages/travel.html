@@ -1,0 +1,80 @@
+---
+layout: archive
+title: "Travel"
+permalink: /travel/
+author_profile: true
+redirect_from:
+  - /Travel/travel
+  - /Travel/travel.html
+---
+
+{% include base_path %}
+
+{% assign n_cities = 0 %}{% assign n_regions = 0 %}
+{% for c in site.data.travel %}{% for r in c.regions %}{% assign n_regions = n_regions | plus: 1 %}{% assign n_cities = n_cities | plus: r.cities.size %}{% endfor %}{% endfor %}
+{% assign n_photos = 0 %}{% for t in site.travel %}{% assign n_photos = n_photos | plus: t.photos %}{% endfor %}
+
+<div class="travel-stats">
+  <div class="stat"><span class="stat-num">{{ site.data.travel.size }}</span><span class="stat-label">countries</span></div>
+  <div class="stat"><span class="stat-num">{{ n_regions }}</span><span class="stat-label">states / provinces</span></div>
+  <div class="stat"><span class="stat-num">{{ n_cities }}</span><span class="stat-label">cities</span></div>
+  <div class="stat"><span class="stat-num">{{ n_photos }}</span><span class="stat-label">photos</span></div>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<div id="travel-map" aria-label="Map of places I have visited"></div>
+<p class="map-legend"><span class="dot dot--page"></span> has a photo page &nbsp; <span class="dot dot--visited"></span> visited</p>
+
+{% for c in site.data.travel %}
+<h2 class="travel-country">{{ c.flag }} {{ c.country }}</h2>
+{% for r in c.regions %}
+<h3 class="travel-region">{{ r.name }}</h3>
+<div class="travel-grid">
+  {% for city in r.cities %}{% if city.page %}
+    {% assign t = site.travel | where: "slug", city.page | first %}
+    <a class="travel-card" href="{{ base_path }}{{ t.url }}">
+      <div class="travel-card__img" style="background-image:url('{{ base_path }}{{ t.cover }}')"></div>
+      <div class="travel-card__body">
+        <div class="travel-card__title">{{ city.name }}</div>
+        <div class="travel-card__meta"><i class="fas fa-camera"></i> {{ t.photos }} photos</div>
+      </div>
+    </a>
+  {% endif %}{% endfor %}
+</div>
+{% assign plain = r.cities | where_exp: "x", "x.page == nil" %}
+{% if plain.size > 0 %}
+<div class="chips chips--muted">{% for city in plain %}<span class="chip">{{ city.name }}</span>{% endfor %}</div>
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+  (function () {
+    var places = [
+      {% for c in site.data.travel %}{% for r in c.regions %}{% for city in r.cities %}
+      {% if city.page %}{% assign t = site.travel | where: "slug", city.page | first %}{% endif %}
+      { name: {{ city.name | jsonify }}, lat: {{ city.lat }}, lng: {{ city.lng }}, url: {% if city.page %}{{ t.url | prepend: base_path | jsonify }}{% else %}null{% endif %} },
+      {% endfor %}{% endfor %}{% endfor %}
+    ];
+    var map = L.map('travel-map', { scrollWheelZoom: false }).setView([35, 0], 2);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 18
+    }).addTo(map);
+    var bounds = [];
+    places.forEach(function (p) {
+      // Shift Asia west by 360° so the map is centred on the Pacific (US + China side by side)
+      var lng = p.lng > 60 ? p.lng - 360 : p.lng;
+      var m = L.circleMarker([p.lat, lng], {
+        radius: p.url ? 8 : 5,
+        color: '#fff', weight: 1.5,
+        fillColor: p.url ? '#e8590c' : '#7a8288', fillOpacity: 0.95
+      }).addTo(map);
+      m.bindTooltip(p.name);
+      if (p.url) m.on('click', function () { window.location = p.url; });
+      bounds.push([p.lat, lng]);
+    });
+    map.fitBounds(bounds, { padding: [20, 20] });
+  })();
+</script>

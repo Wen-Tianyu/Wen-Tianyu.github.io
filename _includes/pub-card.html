@@ -1,0 +1,14 @@
+<div class="pub-card">
+  <div class="pub-venue">{{ post.venue }}</div>
+  <div class="pub-body">
+    <a class="pub-title" href="{{ post.paperurl | default: post.url }}">{{ post.title }}</a>
+    <div class="pub-authors">{{ post.authors }}</div>
+    <div class="pub-meta"><em>{{ post.venue_full }}</em>, {{ post.date | date: "%Y" }}</div>
+    <div class="pub-links">
+      {% if post.pdfurl %}<a class="pub-btn" href="{{ post.pdfurl }}"><i class="fas fa-file-pdf"></i> PDF</a>{% endif %}
+      {% if post.paperurl %}<a class="pub-btn" href="{{ post.paperurl }}"><i class="fas fa-external-link-alt"></i> Paper</a>{% endif %}
+      {% if post.codeurl %}<a class="pub-btn" href="{{ post.codeurl }}"><i class="fab fa-github"></i> Code</a>{% endif %}
+      <a class="pub-btn" href="{{ base_path }}{{ post.url }}"><i class="fas fa-info-circle"></i> Details</a>
+    </div>
+  </div>
+</div>

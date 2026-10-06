@@ -1,0 +1,80 @@
+# Places I've been. `page` links to a file in _travel/ (leave it out if there is no photo page yet).
+# Coordinates are used for the map on /travel/.
+
+- country: "United States"
+  flag: "🇺🇸"
+  regions:
+    - name: "California"
+      cities:
+        - { name: "San Jose", page: sanjose, lat: 37.3382, lng: -121.8863 }
+        - { name: "San Francisco", page: sanfrancisco, lat: 37.7749, lng: -122.4194 }
+        - { name: "Santa Cruz", page: santacruz, lat: 36.9741, lng: -122.0308 }
+        - { name: "Los Angeles", page: losangeles, lat: 34.0522, lng: -118.2437 }
+        - { name: "Monterey", page: monterey, lat: 36.6002, lng: -121.8947 }
+    - name: "Illinois"
+      cities:
+        - { name: "Chicago", page: chicago, lat: 41.8781, lng: -87.6298 }
+        - { name: "Urbana-Champaign", page: urbana, lat: 40.1106, lng: -88.2073 }
+    - name: "Georgia"
+      cities:
+        - { name: "Atlanta", page: atlanta, lat: 33.7490, lng: -84.3880 }
+    - name: "New York"
+      cities:
+        - { name: "New York City", page: nyc, lat: 40.7128, lng: -74.0060 }
+    - name: "Pennsylvania"
+      cities:
+        - { name: "Pittsburgh", page: pittsburgh, lat: 40.4406, lng: -79.9959 }
+
+- country: "Canada"
+  flag: "🇨🇦"
+  regions:
+    - name: "British Columbia"
+      cities:
+        - { name: "Vancouver", page: vancouver, lat: 49.2827, lng: -123.1207 }
+
+- country: "China"
+  flag: "🇨🇳"
+  regions:
+    - name: "Municipalities 直辖市"
+      cities:
+        - { name: "Beijing 北京", page: beijing, lat: 39.9042, lng: 116.4074 }
+        - { name: "Tianjin 天津", page: tianjin, lat: 39.3434, lng: 117.3616 }
+        - { name: "Chongqing 重庆", lat: 29.5630, lng: 106.5516 }
+        - { name: "Shanghai 上海", lat: 31.2304, lng: 121.4737 }
+    - name: "Henan 河南"
+      cities:
+        - { name: "Xinxiang 新乡", page: xinxiang, lat: 35.3030, lng: 113.9268 }
+        - { name: "Zhengzhou 郑州", lat: 34.7466, lng: 113.6253 }
+        - { name: "Kaifeng 开封", page: kaifeng, lat: 34.7972, lng: 114.3076 }
+        - { name: "Luoyang 洛阳", lat: 34.6197, lng: 112.4540 }
+    - name: "Hebei 河北"
+      cities:
+        - { name: "Qinhuangdao 秦皇岛", page: qinhuangdao, lat: 39.9354, lng: 119.6005 }
+    - name: "Sichuan 四川"
+      cities:
+        - { name: "Chengdu 成都", lat: 30.5728, lng: 104.0668 }
+        - { name: "Ya'an 雅安", lat: 29.9805, lng: 103.0133 }
+        - { name: "Aba 阿坝", lat: 31.8994, lng: 102.2214 }
+    - name: "Jiangsu 江苏"
+      cities:
+        - { name: "Nanjing 南京", lat: 32.0603, lng: 118.7969 }
+    - name: "Zhejiang 浙江"
+      cities:
+        - { name: "Hangzhou 杭州", lat: 30.2741, lng: 120.1551 }
+        - { name: "Shaoxing 绍兴", lat: 30.0303, lng: 120.5802 }
+    - name: "Liaoning 辽宁"
+      cities:
+        - { name: "Dalian 大连", lat: 38.9140, lng: 121.6147 }
+    - name: "Shanxi 山西"
+      cities:
+        - { name: "Jincheng 晋城", lat: 35.4907, lng: 112.8513 }
+    - name: "Shandong 山东"
+      cities:
+        - { name: "Qingdao 青岛", lat: 36.0671, lng: 120.3826 }
+    - name: "Inner Mongolia 内蒙古"
+      cities:
+        - { name: "Ulanqab 乌兰察布", lat: 41.0341, lng: 113.1146 }
+    - name: "SAR 特别行政区"
+      cities:
+        - { name: "Hong Kong 香港", lat: 22.3193, lng: 114.1694 }
+        - { name: "Macau 澳门", lat: 22.1987, lng: 113.5439 }
