@@ -6,7 +6,7 @@ permalink: /publication/2023-ijcai-hsgt
 date: 2023-08-19
 venue: "IJCAI 2023"
 venue_full: "Proceedings of the 32nd International Joint Conference on Artificial Intelligence"
-authors: "Wenhao Zhu, <strong>Tianyu Wen</strong>, et al."
+authors: "Wenhao Zhu, <strong>Tianyu Wen</strong>, Guojie Song, Xiaojun Ma, Liang Wang"
 paperurl: "https://www.ijcai.org/proceedings/2023/523"
 pdfurl: "https://www.ijcai.org/proceedings/2023/0523.pdf"
 excerpt: "A hierarchical Graph Transformer that scales to large graphs by using graph hierarchies to capture multi-level information."
