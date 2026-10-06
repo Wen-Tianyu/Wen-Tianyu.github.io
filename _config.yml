@@ -243,7 +243,6 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: true
       related: true
   # _pages
   - scope:
@@ -259,7 +258,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
   # _travel
   - scope:
       path: ""
@@ -267,7 +265,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
 
 
 # Sass/SCSS
